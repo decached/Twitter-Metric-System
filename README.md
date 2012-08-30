@@ -1,4 +1,4 @@
-Twitter Metric System (A part of Infinitely beta's sponsorship test)
+Twitter Metric System
 =====================
 
 ## Description:
